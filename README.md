@@ -1,5 +1,7 @@
 # Update-Petamax-Korepi
 untuk pembeli yg sudah membeli/ masih memiliki key pertamax dan korepi dalam masa update
+![gambar](https://github.com/ryuhuu/Update-Petamax-Korepi/assets/136698330/a9cbd900-d303-43ea-9fd9-430114381817)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 # EN
 1. This expected wait time is exactly what it is: we expect that we can handle updating kitten-injecting software in 7-10 days, but we can try to do it as fast as possible. This update is kinda a tough cookie to work on, without going into details.
